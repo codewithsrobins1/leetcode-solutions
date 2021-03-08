@@ -24,3 +24,4 @@ var numIdenticalPairs = function(nums) {
     }
     return counter;
 };
+
