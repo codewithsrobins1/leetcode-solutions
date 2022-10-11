@@ -20,3 +20,4 @@ var sortArrayByParity = function(A) {
 
     return answerArray;
 }
+
